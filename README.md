@@ -1,7 +1,8 @@
 Code
 ====
+Attempt at getting better at competitve programming. Target is to be able to do
+at least 4 per challenge on CodeChef, and get out of the grey zone on Codeforces
 
-Store code written for competitive programming. Not much to begin with, &lt;10 files
+:S
 
-I'll try keeping it this organized.
-Again, this is just to practice pushing code on to git, nothing more, really.
+
